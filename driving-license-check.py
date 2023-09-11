@@ -9,3 +9,6 @@ else:
     print (f"{name}, You did not receive it because your education is not sufficient.")
   else:
     print (f"{name}, You Can Get a Driver's License")
+
+    input("break")   
+      
